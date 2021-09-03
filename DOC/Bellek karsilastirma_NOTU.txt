@@ -1,0 +1,8 @@
+  
+				Çalýþma Belleði(MAX 32256 byte)		RAM(MAX 2048 byte)
+
+1- Makro kullanmadan			%22, 7244 Byte			   %12, 251 Byte
+   Fonksiyonlarla
+
+2- Makro kullanarak
+   #define ile				%22, 7284			   %12, 251
